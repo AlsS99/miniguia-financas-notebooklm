@@ -30,7 +30,7 @@ Projeto prático de aprendizagem ativa utilizando IA generativa e NotebookLM par
 
 ### 📘 Miniguia Completo
 
-[Visualizar PDF](pdf/Guia%20Finanças.pdf)
+[Visualizar PDF](pdf/GuiaFinanças.pdf)
 
 [Visualizar Resumo](resumo/miniguia.md)
 
