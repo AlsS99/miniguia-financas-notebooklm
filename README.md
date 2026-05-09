@@ -29,6 +29,7 @@ Projeto prático de aprendizagem ativa utilizando IA generativa e NotebookLM par
 ## Resultado Final
 
 ### 📘 Miniguia Completo
+<a href="https://github.com/AlsS99/miniguia-financas-notebooklm/raw/main/pdf/GuiaFinan%C3%A7as.pdf" target="_blank">Abrir Guia de Finanças</a>
 
 [Visualizar PDF](pdf/GuiaFinanças.pdf)
 
